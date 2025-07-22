@@ -82,7 +82,7 @@ fun FormUI(modifier: Modifier = Modifier) {
             .selectableGroup()
     ) {
         Text(
-            text = "Gamoras Code Challenge 4",
+            text = "Gamoras Hacinas Code Challenge 4",
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold
         )
